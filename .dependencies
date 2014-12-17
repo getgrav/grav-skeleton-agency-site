@@ -1,24 +1,24 @@
 git:
-    error:
-        url: https://github.com/getgrav/grav-plugin-error
-        path: user/plugins/error
-        branch: develop
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
+        branch: develop
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
         branch: develop
     agency:
         url: https://github.com/getgrav/grav-theme-agency
         path: user/themes/agency
         branch: develop
 links:
-    error:
-        src: grav-plugin-error
-        path: user/plugins/error
-        scm: github
     problems:
         src: grav-plugin-problems
         path: user/plugins/problems
+        scm: github
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
         scm: github
     agency:
         src: grav-theme-agency
