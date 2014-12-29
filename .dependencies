@@ -7,7 +7,7 @@ git:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
         branch: develop
-    error:
+    simple_form:
         url: https://github.com/getgrav/grav-plugin-simple_form
         path: user/plugins/simple_form
         branch: develop    
