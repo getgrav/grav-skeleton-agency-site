@@ -8,7 +8,7 @@ git:
         path: user/plugins/error
         branch: develop
     simple_form:
-        url: https://github.com/getgrav/grav-plugin-simple_form
+        url: https://github.com/nunopress/grav-plugin-simple_form
         path: user/plugins/simple_form
         branch: develop    
     agency:
