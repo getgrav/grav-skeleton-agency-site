@@ -2,7 +2,6 @@
 title: Agency
 menu: Home
 onpage_menu: true
-simplecontact: true
 content:
     items: @self.modular
     order:

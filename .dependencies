@@ -7,6 +7,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
         branch: develop
+    error:
+        url: https://github.com/getgrav/grav-plugin-simple_form
+        path: user/plugins/simple_form
+        branch: develop    
     agency:
         url: https://github.com/getgrav/grav-theme-agency
         path: user/themes/agency
@@ -16,6 +20,10 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
+    simple_form:
+        src: grav-plugin-simple_form
+        path: user/plugins/simple_form
+        scm: github    
     error:
         src: grav-plugin-error
         path: user/plugins/error
