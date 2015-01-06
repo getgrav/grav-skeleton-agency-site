@@ -2,7 +2,6 @@
 title: 'contact'
 simple_form:
         token: "your token goes here"
-        template_file: "simple_form.html.twig"
 ---
 <section id="contact">
   <div class="container">
