@@ -3,7 +3,7 @@ title: Header
 menu: Top
 buttons:
     - text: Tell me more
-      url: http://learn.getgrav.org
+      url: '#about'
       primary: true
 featured: header.jpg
 ---
