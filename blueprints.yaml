@@ -1,7 +1,7 @@
 name: Agency Site
 version: 0.9.9
 description: "The **Agency Skeleton** provides a great example of how to build a modern on-page design with navigation that scrolls to the relevant section of the page."
-icon: comments
+icon: group
 author:
   name: Team Grav
   email: devs@getgrav.org
