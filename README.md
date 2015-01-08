@@ -2,7 +2,7 @@
 
 ![Agency](assets/readme_1.png)
 
-This Grav skeleton is based around the Agency Grav theme which in turn, is a port of the [Jekyll Agency theme](https://github.com/y7kim/agency-jekyll-theme) by [Rick Kim (y7kim)](https://github.com/y7kim), which originated from the [Agency Bootstrap theme by Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+This Grav skeleton is based around the [Agency Grav theme](https://github.com/getgrav/grav-theme-agency) which in turn, is a port of the [Jekyll Agency theme](https://github.com/y7kim/agency-jekyll-theme) by [Rick Kim (y7kim)](https://github.com/y7kim), which originated from the [Agency Bootstrap theme by Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
 
 # Features
 
@@ -30,7 +30,7 @@ The simplest way to install Agency theme for Grav is to download and install the
 
 ## Existing Grav site
 
-It is possible to install just the theme, but page content will need to reference the Agency theme's supported templates.  It is strongly advised to at least install the Agency Skeleton package to see the theme's capabilities in action.
+It is possible to install just the theme, but page content will need to reference the [Agency theme](https://github.com/getgrav/grav-theme-agency)'s supported templates.  It is strongly advised to at least install the Agency Skeleton package to see the theme's capabilities in action.
 
 To install  **just** the theme:
 
