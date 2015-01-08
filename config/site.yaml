@@ -1,0 +1,49 @@
+title: Grav
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+metadata:
+    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    
+# Site settings
+title: Awesome Title
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Links to include in footer navigation
+# For external links add external: true
+links:
+  - title: Services
+    url: '#services'
+  - title: Portfolio
+    url: '#portfolio'
+  - title: About
+    url: '#about'
+  - title: Team
+    url: '#team'  
+  - title: Contact
+    url: '#contact'           
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket 
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+quicklinks:
+  - title: Privacy Policy
+    url: '#'
+  - title: Terms of Use
+    url: '#'
