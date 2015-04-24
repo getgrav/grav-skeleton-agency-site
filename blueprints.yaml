@@ -1,6 +1,6 @@
 name: Agency Site
-version: 1.0.0
-description: "The **Agency Skeleton** provides a great example of how to build a modern on-page design with navigation that scrolls to the relevant section of the page."
+version: 1.0.1
+description: "The **Agency Skeleton** provides a great example of how to build a modern one-page design with navigation that scrolls to the relevant section of the page."
 icon: group
 author:
   name: Team Grav

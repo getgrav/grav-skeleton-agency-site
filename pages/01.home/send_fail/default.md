@@ -1,3 +1,0 @@
----
-title: Sending Failed
----
