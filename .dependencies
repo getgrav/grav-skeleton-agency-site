@@ -2,19 +2,19 @@ git:
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: develop
+        branch: master
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop
+        branch: master
     simple_form:
         url: https://github.com/nunopress/grav-plugin-simple_form
         path: user/plugins/simple_form
-        branch: develop    
+        branch: master    
     agency:
         url: https://github.com/getgrav/grav-theme-agency
         path: user/themes/agency
-        branch: develop
+        branch: master
 links:
     problems:
         src: grav-plugin-problems
