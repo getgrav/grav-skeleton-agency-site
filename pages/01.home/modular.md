@@ -24,7 +24,7 @@ form:
           label: Name
           classes: form-control
           placeholder: Enter your name
-          autofocus: on
+          autofocus: off
           autocomplete: on
           type: text
           position: left
