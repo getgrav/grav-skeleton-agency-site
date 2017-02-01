@@ -1,3 +1,9 @@
+# v1.0.x
+## 02/xx/2017
+
+1. [](#bugfix)
+    * Remove autofocus from the contact form to prevent scrolling
+
 # v1.0.3
 ## 07/22/2016
 
