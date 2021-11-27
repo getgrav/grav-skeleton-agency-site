@@ -1,3 +1,9 @@
+# v1.0.5
+## mm/dd/2021
+
+1. [](#bugfix)
+    * Added missing `accounts` folder
+
 # v1.0.4
 ## 02/01/2017
 
