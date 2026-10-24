@@ -1,10 +1,9 @@
-title: Grav
 author:
   name: Joe Bloggs
   email: 'joe@test.com'
 metadata:
     description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
-    
+
 # Site settings
 title: Awesome Title
 email: your-email@domain.com
@@ -20,9 +19,9 @@ links:
   - title: About
     url: '#about'
   - title: Team
-    url: '#team'  
+    url: '#team'
   - title: Contact
-    url: '#contact'           
+    url: '#contact'
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -32,7 +31,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll

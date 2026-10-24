@@ -4,7 +4,7 @@ cache_enable: false
 
 form:
     name: contact
-    action: /home
+    action: /home#contact
     fields:
         - name: name
           label: Name
